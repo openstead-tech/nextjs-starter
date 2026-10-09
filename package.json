@@ -1,0 +1,7 @@
+{
+  "name": "openstead-nextjs-verification",
+  "private": true,
+  "scripts": {"build": "next build", "start": "next start -H 0.0.0.0"},
+  "engines": {"node": "24.x"},
+  "dependencies": {"next": "16.3.6", "react": "19.3.0", "react-dom": "19.3.0"}
+}
